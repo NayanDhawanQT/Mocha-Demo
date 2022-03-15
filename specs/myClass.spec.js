@@ -34,6 +34,7 @@ describe.skip("Test Suit for Stub", function () {
     });
 });
 
+//This test suit is to test the promise in javascript
 describe("Test the Promise", function(){
   it("Promise Test case", function(done){
     this.timeout(2000);
