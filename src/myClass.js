@@ -2,7 +2,7 @@ class MyClass{
     constructor (){
         console.log("initiate");
     }
-
+    //All the functions are the individual functionality
     add(arg1 , arg2){
         return (arg1+arg2);
     }
