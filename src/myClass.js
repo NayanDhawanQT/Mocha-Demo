@@ -2,7 +2,7 @@ class MyClass{
     constructor (){
         console.log("initiate");
     }
-
+// Enter
     add(arg1 , arg2){
         return (arg1+arg2);
     }
